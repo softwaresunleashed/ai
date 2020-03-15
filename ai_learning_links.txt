@@ -1,0 +1,35 @@
+
+Coursera AI courses
+---------------------------
+1)	TensorFlow in Practice Specialization	:-
+		i)	Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning - https://www.coursera.org/learn/introduction-tensorflow
+		ii)	Convolutional Neural Networks in TensorFlow 																		- https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
+		iii)	Natural Language Processing in TensorFlow 																			- https://www.coursera.org/learn/natural-language-processing-tensorflow
+		iv)	Sequences, Time Series and Prediction 																				- https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
+
+2) TensorFlow: Data and Deployment Specialization	:-
+		i)	Browser-based Models with TensorFlow.js																				- https://www.coursera.org/learn/browser-based-models-tensorflow
+		ii) Device-based Models with TensorFlow Lite																				- https://www.coursera.org/learn/device-based-models-tensorflow
+		iii)	Data Pipelines with TensorFlow Data Services																		- https://www.coursera.org/learn/data-pipelines-tensorflow
+		iv)	Advanced Deployment Scenarios with TensorFlow																	- https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow
+		
+
+
+AI YouTube Links
+=============
+https://www.youtube.com/watch?v=QSbAUxWfxQw											( TensorFlow Lite, Experimental GPU Delegate (Coding TensorFlow) )
+
+
+
+
+Zero To Hero - Natural Language Processing
+------------------------------------------------------------
+https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx&index=4&t=0s				(Part 1)
+
+
+
+	
+
+
+
+
