@@ -18,7 +18,7 @@ Coursera AI courses
 AI YouTube Links
 =============
 https://www.youtube.com/watch?v=QSbAUxWfxQw											( TensorFlow Lite, Experimental GPU Delegate (Coding TensorFlow) )
-
+https://www.youtube.com/watch?v=inN8seMm7UI&feature=youtu.be				( Get started with Google Colaboratory (Coding TensorFlow) )
 
 
 
